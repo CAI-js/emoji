@@ -72,4 +72,8 @@ const removeEmojis = str =>
         .join('')
     : str;
 
-module.exports = { removeEmojis };
+const info = {
+  name: 'removeEmojis'
+}
+
+module.exports = { info, removeEmojis };
