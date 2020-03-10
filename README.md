@@ -1,6 +1,7 @@
 # @caijs/emoji
 
 [![Build Status](https://travis-ci.com/CAI-js/emoji.svg?branch=master)](https://travis-ci.com/CAI-js/emoji)
+[![Coverage Status](https://coveralls.io/repos/github/CAI-js/emoji/badge.svg?branch=master)](https://coveralls.io/github/CAI-js/emoji?branch=master)
 [![NPM version](https://img.shields.io/npm/v/@caijs/emoji.svg?style=flat)](https://www.npmjs.com/package/@caijs/emoji)
 [![NPM downloads](https://img.shields.io/npm/dm/@caijs/emoji.svg?style=flat)](https://www.npmjs.com/package/@caijs/emoji)
 
