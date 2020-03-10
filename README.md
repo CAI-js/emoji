@@ -1,5 +1,9 @@
 # @caijs/emoji
 
+[![Build Status](https://travis-ci.com/CAI-js/emoji.svg?branch=master)](https://travis-ci.com/CAI-js/emoji)
+[![NPM version](https://img.shields.io/npm/v/@caijs/emoji.svg?style=flat)](https://www.npmjs.com/package/@caijs/emoji)
+[![NPM downloads](https://img.shields.io/npm/dm/@caijs/emoji.svg?style=flat)](https://www.npmjs.com/package/@caijs/emoji)
+
 This library replace emojis with their equivalent text.
 
 ## Installation

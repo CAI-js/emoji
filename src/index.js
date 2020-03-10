@@ -73,7 +73,7 @@ const removeEmojis = str =>
     : str;
 
 const info = {
-  name: 'removeEmojis'
-}
+  name: 'removeEmojis',
+};
 
 module.exports = { info, removeEmojis };
